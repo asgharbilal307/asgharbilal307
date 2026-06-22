@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on NexusAI — an autonomous multi-agent business intelligence platform built on LangGraph, Kafka, and FastAPI (my Final Year Project)<br>👯 I'm looking to collaborate on RAG-based applications, AI agent systems, and full-stack AI products<br>🤝 I'm looking for help with scaling multi-agent orchestration and production deployment best practices for AI systems<br>🌱 I'm currently learning LangGraph, advanced agent orchestration patterns, and distributed systems with Kafka<br>💬 Ask me about RAG pipelines, LLM integration, ML model deployment, or the MERN stack
+🔭 I'm currently working on NexusAI — an autonomous multi-agent business intelligence platform built on LangGraph, Kafka, and FastAPI <br>👯 I'm looking to collaborate on RAG-based applications, AI agent systems, and full-stack AI products<br>🤝 I'm looking for help with scaling multi-agent orchestration and production deployment best practices for AI systems<br>🌱 I'm currently learning LangGraph, advanced agent orchestration patterns, and distributed systems with Kafka<br>💬 Ask me about RAG pipelines, LLM integration, ML model deployment, or the MERN stack
 
 
 ## 🌐 Socials:

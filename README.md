@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on ClinicalMind —An evidence intelligence platform that automates the first step of a systematic review by turning medical literature retrieval into a structured scientific debate instead of a one-sided summary. <br>👯 I'm looking to collaborate on RAG-based applications, AI agent systems, and full-stack AI products<br>🤝 I'm looking for help with scaling multi-agent orchestration and production deployment best practices for AI systems<br>🌱 I'm currently learning LangGraph, advanced agent orchestration patterns, and distributed systems with Kafka<br>💬 Ask me about RAG pipelines, LLM integration, ML model deployment, or the MERN stack
+#  About Me:
+🔭 I'm currently working on ClinicalMind —An evidence intelligence platform that automates the first step of a systematic review by turning medical literature retrieval into a structured scientific debate instead of a one-sided summary. <br>I'm looking to collaborate on RAG-based applications, AI agent systems, and full-stack AI products<br>I'm looking for help with scaling multi-agent orchestration and production deployment best practices for AI systems<br>I'm currently learning LangGraph, advanced agent orchestration patterns, and distributed systems with Kafka<br>Ask me about RAG pipelines, LLM integration, ML model deployment, or the MERN stack
 
 
 ## 🌐 Socials:
